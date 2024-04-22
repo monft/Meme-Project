@@ -1,0 +1,36 @@
+* {
+    background-color: black;
+    margin: 0%;
+}
+
+.meme {
+    width:50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding-inline: 50px;
+    text-align: center;
+
+}
+
+.foto-perro {
+    border: 5px solid white;
+    border-radius: 20px;
+    
+   
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+
+  
